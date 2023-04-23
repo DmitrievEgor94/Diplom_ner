@@ -1,0 +1,7 @@
+host_for_model_api: '127.0.0.1'
+port_for_model_api: 9000
+url_path_for_model_api: 'check_message_on_violation'
+
+
+telegram_params:
+  api_token: '5850509516:AAEnNKqZA2K9h0n4UIrAL7UiultgwKllR50'
