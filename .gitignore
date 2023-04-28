@@ -3,3 +3,4 @@ data/*
 *.db
 !data/regions_ind
 .idea
+*.pickle

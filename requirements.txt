@@ -10,5 +10,4 @@ numpy==1.24.2
 torch==1.13.0
 wget==3.2
 tqdm==4.65.0
-nltk==3.8.1
-pymystem3==0.2.0
+scikit-learn==1.2.2
