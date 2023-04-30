@@ -4,3 +4,6 @@ data/*
 !data/regions_ind
 .idea
 *.pickle
+!model.pickle
+*.bin
+cc.ru.300.bin.gz
